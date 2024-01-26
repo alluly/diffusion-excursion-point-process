@@ -1,0 +1,1694 @@
+Running: History Dependent
+num zeros len(t0) 58 	 num all zeros len(t0_orig) 59
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.06458393484354019
+tensor([0.7541], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 66 	 num all zeros len(t0_orig) 67
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.037144534289836884
+tensor([0.6927], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 92 	 num all zeros len(t0_orig) 93
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.008368364535272121
+tensor([0.5915], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 39 	 num all zeros len(t0_orig) 40
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.19666801393032074
+tensor([0.9435], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 52 	 num all zeros len(t0_orig) 53
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.13580863177776337
+tensor([0.8685], grad_fn=<SelectBackward0>)
+0.5
+zero_cnt 50
+num_mins 96  num_maxes 125
+num zeros len(t0) 49 	 num all zeros len(t0_orig) 50
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.3277595043182373
+tensor([1.0725], grad_fn=<SelectBackward0>)
+0.5
+zero_cnt 58
+num_mins 90  num_maxes 120
+num zeros len(t0) 57 	 num all zeros len(t0_orig) 58
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.03175473213195801
+tensor([0.6782], grad_fn=<SelectBackward0>)
+0.5
+zero_cnt 69
+num_mins 73  num_maxes 120
+num zeros len(t0) 68 	 num all zeros len(t0_orig) 69
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.05658654868602753
+tensor([0.7379], grad_fn=<SelectBackward0>)
+0.5
+zero_cnt 56
+num_mins 112  num_maxes 127
+num zeros len(t0) 55 	 num all zeros len(t0_orig) 56
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.0445164330303669
+tensor([0.7110], grad_fn=<SelectBackward0>)
+0.5
+zero_cnt 51
+num_mins 127  num_maxes 80
+num zeros len(t0) 50 	 num all zeros len(t0_orig) 51
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.09812568128108978
+tensor([0.8133], grad_fn=<SelectBackward0>)
+0.5
+[0.06458393 0.03714453 0.00836836 0.19666801 0.13580863 0.3277595
+ 0.03175473 0.05658655 0.04451643 0.09812568]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New History Dependent Result
+Use Bridge? : False
+Kernel weight: 0.5
+MSE: 0.10013163788244128 \pm 0.09258872988838895
+num zeros len(t0) 58 	 num all zeros len(t0_orig) 59
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.2496425062417984
+tensor([0.0004], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 66 	 num all zeros len(t0_orig) 67
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.24947471916675568
+tensor([0.0005], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 92 	 num all zeros len(t0_orig) 93
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.2505345344543457
+tensor([-0.0005], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 39 	 num all zeros len(t0_orig) 40
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.2615937292575836
+tensor([-0.0115], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 52 	 num all zeros len(t0_orig) 53
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.248738095164299
+tensor([0.0013], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 49 	 num all zeros len(t0_orig) 50
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.2630920112133026
+tensor([-0.0129], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 57 	 num all zeros len(t0_orig) 58
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.250397652387619
+tensor([-0.0004], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 68 	 num all zeros len(t0_orig) 69
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/torch/functional.py:445: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2157.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+------------------------------------------------------------------------------------------------------------------------
+0.2511751651763916
+tensor([-0.0012], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 55 	 num all zeros len(t0_orig) 56
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.24844492971897125
+tensor([0.0016], grad_fn=<SelectBackward0>)
+0.5
+num zeros len(t0) 50 	 num all zeros len(t0_orig) 51
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.24921056628227234
+tensor([0.0008], grad_fn=<SelectBackward0>)
+0.5
+[0.24964251 0.24947472 0.25053453 0.26159373 0.2487381  0.26309201
+ 0.25039765 0.25117517 0.24844493 0.24921057]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New History Dependent Result
+Use Bridge? : True
+Kernel weight: 0.5
+MSE: 0.2522303909063339 \pm 0.005127682928787651
+num zeros len(t0) 22 	 num all zeros len(t0_orig) 23
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+5.877291187061928e-07
+tensor([1.0008], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 82 	 num all zeros len(t0_orig) 83
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.13628332316875458
+tensor([0.6308], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 19 	 num all zeros len(t0_orig) 20
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.19811640679836273
+tensor([1.4451], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 16 	 num all zeros len(t0_orig) 17
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.0014332468854263425
+tensor([0.9621], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 44 	 num all zeros len(t0_orig) 45
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+7.820927567081526e-05
+tensor([0.9912], grad_fn=<SelectBackward0>)
+1
+zero_cnt 37
+num_mins 101  num_maxes 125
+num zeros len(t0) 36 	 num all zeros len(t0_orig) 37
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.014167430810630322
+tensor([0.8810], grad_fn=<SelectBackward0>)
+1
+zero_cnt 66
+num_mins 100  num_maxes 114
+num zeros len(t0) 65 	 num all zeros len(t0_orig) 66
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.06450238078832626
+tensor([0.7460], grad_fn=<SelectBackward0>)
+1
+zero_cnt 82
+num_mins 62  num_maxes 139
+num zeros len(t0) 81 	 num all zeros len(t0_orig) 82
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.13826929032802582
+tensor([0.6282], grad_fn=<SelectBackward0>)
+1
+zero_cnt 50
+num_mins 91  num_maxes 130
+num zeros len(t0) 49 	 num all zeros len(t0_orig) 50
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.07688124477863312
+tensor([0.7227], grad_fn=<SelectBackward0>)
+1
+zero_cnt 61
+num_mins 101  num_maxes 136
+num zeros len(t0) 60 	 num all zeros len(t0_orig) 61
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.029790256172418594
+tensor([0.8274], grad_fn=<SelectBackward0>)
+1
+[5.87729119e-07 1.36283323e-01 1.98116407e-01 1.43324689e-03
+ 7.82092757e-05 1.41674308e-02 6.45023808e-02 1.38269290e-01
+ 7.68812448e-02 2.97902562e-02]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New History Dependent Result
+Use Bridge? : False
+Kernel weight: 1
+MSE: 0.06595223767353672 \pm 0.06678786837540193
+num zeros len(t0) 22 	 num all zeros len(t0_orig) 23
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+1.0030359029769897
+tensor([-0.0015], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 82 	 num all zeros len(t0_orig) 83
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.9979806542396545
+tensor([0.0010], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 19 	 num all zeros len(t0_orig) 20
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.9978125095367432
+tensor([0.0011], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 16 	 num all zeros len(t0_orig) 17
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+1.0067983865737915
+tensor([-0.0034], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 44 	 num all zeros len(t0_orig) 45
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+------------------------------------------------------------------------------------------------------------------------
+0.9812977910041809
+tensor([0.0094], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 36 	 num all zeros len(t0_orig) 37
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+1.002542495727539
+tensor([-0.0013], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 65 	 num all zeros len(t0_orig) 66
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+1.0021569728851318
+tensor([-0.0011], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 81 	 num all zeros len(t0_orig) 82
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+1.0009183883666992
+tensor([-0.0005], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 49 	 num all zeros len(t0_orig) 50
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+1.0008083581924438
+tensor([-0.0004], grad_fn=<SelectBackward0>)
+1
+num zeros len(t0) 60 	 num all zeros len(t0_orig) 61
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+1.001983642578125
+tensor([-0.0010], grad_fn=<SelectBackward0>)
+1
+[1.0030359  0.99798065 0.99781251 1.00679839 0.98129779 1.0025425
+ 1.00215697 1.00091839 1.00080836 1.00198364]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New History Dependent Result
+Use Bridge? : True
+Kernel weight: 1
+MSE: 0.9995335102081299 \pm 0.006545553203298047
+num zeros len(t0) 67 	 num all zeros len(t0_orig) 68
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+1.6215465068817139
+tensor([0.7266], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 30 	 num all zeros len(t0_orig) 31
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.9232274293899536
+tensor([1.0392], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 26 	 num all zeros len(t0_orig) 27
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.7465406656265259
+tensor([1.1360], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 22 	 num all zeros len(t0_orig) 23
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.7457119226455688
+tensor([1.1365], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 16 	 num all zeros len(t0_orig) 17
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.4728859066963196
+tensor([1.3123], grad_fn=<SelectBackward0>)
+2
+zero_cnt 19
+num_mins 119  num_maxes 102
+num zeros len(t0) 18 	 num all zeros len(t0_orig) 19
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.9343806505203247
+tensor([1.0334], grad_fn=<SelectBackward0>)
+2
+zero_cnt 26
+num_mins 111  num_maxes 70
+num zeros len(t0) 25 	 num all zeros len(t0_orig) 26
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.7904192209243774
+tensor([1.1109], grad_fn=<SelectBackward0>)
+2
+zero_cnt 23
+num_mins 129  num_maxes 99
+num zeros len(t0) 22 	 num all zeros len(t0_orig) 23
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.5502356886863708
+tensor([1.2582], grad_fn=<SelectBackward0>)
+2
+zero_cnt 21
+num_mins 137  num_maxes 69
+num zeros len(t0) 20 	 num all zeros len(t0_orig) 21
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+0.4894935190677643
+tensor([1.3004], grad_fn=<SelectBackward0>)
+2
+zero_cnt 40
+num_mins 95  num_maxes 116
+num zeros len(t0) 39 	 num all zeros len(t0_orig) 40
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+1.5685088634490967
+tensor([0.7476], grad_fn=<SelectBackward0>)
+2
+[1.62154651 0.92322743 0.74654067 0.74571192 0.47288591 0.93438065
+ 0.79041922 0.55023569 0.48949352 1.56850886]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New History Dependent Result
+Use Bridge? : False
+Kernel weight: 2
+MSE: 0.8842950373888016 \pm 0.3872245039406556
+num zeros len(t0) 67 	 num all zeros len(t0_orig) 68
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+4.0005340576171875
+tensor([-0.0001], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 30 	 num all zeros len(t0_orig) 31
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+------------------------------------------------------------------------------------------------------------------------
+3.9989914894104004
+tensor([0.0003], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 26 	 num all zeros len(t0_orig) 27
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+3.982666254043579
+tensor([0.0043], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 22 	 num all zeros len(t0_orig) 23
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+3.994079828262329
+tensor([0.0015], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 16 	 num all zeros len(t0_orig) 17
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+4.030393123626709
+tensor([-0.0076], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 18 	 num all zeros len(t0_orig) 19
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+4.000499725341797
+tensor([-0.0001], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 25 	 num all zeros len(t0_orig) 26
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+3.977032423019409
+tensor([0.0058], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 22 	 num all zeros len(t0_orig) 23
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+4.002204418182373
+tensor([-0.0006], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 20 	 num all zeros len(t0_orig) 21
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+3.9844226837158203
+tensor([0.0039], grad_fn=<SelectBackward0>)
+2
+num zeros len(t0) 39 	 num all zeros len(t0_orig) 40
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+3.985340118408203
+tensor([0.0037], grad_fn=<SelectBackward0>)
+2
+[4.00053406 3.99899149 3.98266625 3.99407983 4.03039312 4.00049973
+ 3.97703242 4.00220442 3.98442268 3.98534012]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New History Dependent Result
+Use Bridge? : True
+Kernel weight: 2
+MSE: 3.995616412162781 \pm 0.014347741014381212
+Running: Input Dependent
+num zeros len(t0) 68 	 num all zeros len(t0_orig) 69
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.8329]], requires_grad=True)
+0.5
+num zeros len(t0) 23 	 num all zeros len(t0_orig) 24
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.9617]], requires_grad=True)
+0.5
+num zeros len(t0) 73 	 num all zeros len(t0_orig) 74
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.7304]], requires_grad=True)
+0.5
+num zeros len(t0) 49 	 num all zeros len(t0_orig) 50
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.0315]], requires_grad=True)
+0.5
+num zeros len(t0) 37 	 num all zeros len(t0_orig) 38
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.9341]], requires_grad=True)
+0.5
+num_mins 88  num_maxes 119
+num zeros len(t0) 46 	 num all zeros len(t0_orig) 47
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.9022]], requires_grad=True)
+0.5
+num_mins 90  num_maxes 96
+num zeros len(t0) 81 	 num all zeros len(t0_orig) 82
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.7899]], requires_grad=True)
+0.5
+num_mins 80  num_maxes 108
+num zeros len(t0) 79 	 num all zeros len(t0_orig) 80
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.6551]], requires_grad=True)
+0.5
+num_mins 108  num_maxes 105
+num zeros len(t0) 68 	 num all zeros len(t0_orig) 69
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.6238]], requires_grad=True)
+0.5
+num_mins 139  num_maxes 82
+num zeros len(t0) 67 	 num all zeros len(t0_orig) 68
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.8056]], requires_grad=True)
+0.5
+[0.11083121 0.21321259 0.05306564 0.28244421 0.18843119 0.16172968
+ 0.0840351  0.0240412  0.01532962 0.09336618]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New Input Dependent Result
+Use Bridge? : False
+Kernel weight: 0.5
+MSE: 0.1226486616767943 \pm 0.08256018293532896
+num zeros len(t0) 68 	 num all zeros len(t0_orig) 69
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0011]], requires_grad=True)
+0.5
+num zeros len(t0) 23 	 num all zeros len(t0_orig) 24
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0036]], requires_grad=True)
+0.5
+num zeros len(t0) 73 	 num all zeros len(t0_orig) 74
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0046]], requires_grad=True)
+0.5
+num zeros len(t0) 49 	 num all zeros len(t0_orig) 50
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0002]], requires_grad=True)
+0.5
+num zeros len(t0) 37 	 num all zeros len(t0_orig) 38
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0040]], requires_grad=True)
+0.5
+num zeros len(t0) 46 	 num all zeros len(t0_orig) 47
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0029]], requires_grad=True)
+0.5
+num zeros len(t0) 81 	 num all zeros len(t0_orig) 82
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[3.6487e-06]], requires_grad=True)
+0.5
+num zeros len(t0) 79 	 num all zeros len(t0_orig) 80
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0011]], requires_grad=True)
+0.5
+num zeros len(t0) 68 	 num all zeros len(t0_orig) 69
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0002]], requires_grad=True)
+0.5
+num zeros len(t0) 67 	 num all zeros len(t0_orig) 68
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0003]], requires_grad=True)
+0.5
+[0.25107285 0.24638477 0.24545923 0.24979158 0.24604928 0.24711753
+ 0.24999636 0.24890769 0.25015578 0.25030813]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New Input Dependent Result
+Use Bridge? : True
+Kernel weight: 0.5
+MSE: 0.24852432012557985 \pm 0.0019579522232505597
+num zeros len(t0) 33 	 num all zeros len(t0_orig) 34
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.1509]], requires_grad=True)
+1
+num zeros len(t0) 61 	 num all zeros len(t0_orig) 62
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.8532]], requires_grad=True)
+1
+num zeros len(t0) 18 	 num all zeros len(t0_orig) 19
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.1937]], requires_grad=True)
+1
+num zeros len(t0) 36 	 num all zeros len(t0_orig) 37
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.1498]], requires_grad=True)
+1
+num zeros len(t0) 19 	 num all zeros len(t0_orig) 20
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.4952]], requires_grad=True)
+1
+num_mins 67  num_maxes 133
+num zeros len(t0) 27 	 num all zeros len(t0_orig) 28
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.2404]], requires_grad=True)
+1
+num_mins 99  num_maxes 102
+num zeros len(t0) 53 	 num all zeros len(t0_orig) 54
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.9525]], requires_grad=True)/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+1
+num_mins 90  num_maxes 133
+num zeros len(t0) 33 	 num all zeros len(t0_orig) 34
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.8380]], requires_grad=True)
+1
+num_mins 87  num_maxes 131
+num zeros len(t0) 25 	 num all zeros len(t0_orig) 26
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.8204]], requires_grad=True)
+1
+num_mins 88  num_maxes 131
+num zeros len(t0) 28 	 num all zeros len(t0_orig) 29
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.2403]], requires_grad=True)
+1
+[0.02276103 0.02154759 0.03752388 0.0224527  0.24517384 0.05781157
+ 0.00225244 0.02624211 0.03224539 0.05772246]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New Input Dependent Result
+Use Bridge? : False
+Kernel weight: 1
+MSE: 0.0525733006419614 \pm 0.06616099208925232
+num zeros len(t0) 33 	 num all zeros len(t0_orig) 34
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0050]], requires_grad=True)
+1
+num zeros len(t0) 61 	 num all zeros len(t0_orig) 62
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0022]], requires_grad=True)
+1
+num zeros len(t0) 18 	 num all zeros len(t0_orig) 19
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0004]], requires_grad=True)
+1
+num zeros len(t0) 36 	 num all zeros len(t0_orig) 37
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0037]], requires_grad=True)
+1
+num zeros len(t0) 19 	 num all zeros len(t0_orig) 20
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0190]], requires_grad=True)
+1
+num zeros len(t0) 27 	 num all zeros len(t0_orig) 28
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0018]], requires_grad=True)
+1
+num zeros len(t0) 53 	 num all zeros len(t0_orig) 54
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0020]], requires_grad=True)
+1
+num zeros len(t0) 33 	 num all zeros len(t0_orig) 34
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0072]], requires_grad=True)
+1
+num zeros len(t0) 25 	 num all zeros len(t0_orig) 26
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0020]], requires_grad=True)
+1
+num zeros len(t0) 28 	 num all zeros len(t0_orig) 29
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0026]], requires_grad=True)
+1
+[0.99008596 1.004457   0.99918097 0.99264419 1.03838277 1.00362241
+ 0.99609649 0.98556435 1.00402761 1.00524998]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New Input Dependent Result
+Use Bridge? : True
+Kernel weight: 1
+MSE: 1.0019311726093292 \pm 0.013745564666105681
+num zeros len(t0) 5 	 num all zeros len(t0_orig) 6
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.2119]], requires_grad=True)
+2
+num zeros len(t0) 31 	 num all zeros len(t0_orig) 32
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.7538]], requires_grad=True)
+2
+num zeros len(t0) 9 	 num all zeros len(t0_orig) 10
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.6406]], requires_grad=True)
+2
+num zeros len(t0) 2 	 num all zeros len(t0_orig) 3
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.2157]], requires_grad=True)
+2
+num zeros len(t0) 26 	 num all zeros len(t0_orig) 27
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+/home/ali/anaconda3/envs/py36/lib/python3.7/site-packages/seaborn/distributions.py:2557: FutureWarning: `distplot` is a deprecated function and will be removed in a future version. Please adapt your code to use either `displot` (a figure-level function with similar flexibility) or `histplot` (an axes-level function for histograms).
+  warnings.warn(msg, FutureWarning)
+
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.3308]], requires_grad=True)
+2
+num_mins 121  num_maxes 84
+num zeros len(t0) 20 	 num all zeros len(t0_orig) 21
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.4916]], requires_grad=True)
+2
+num_mins 141  num_maxes 77
+num zeros len(t0) 49 	 num all zeros len(t0_orig) 50
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.0342]], requires_grad=True)
+2
+num_mins 59  num_maxes 164
+num zeros len(t0) 3 	 num all zeros len(t0_orig) 4
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-1.5065]], requires_grad=True)
+2
+num_mins 97  num_maxes 102
+num zeros len(t0) 7 	 num all zeros len(t0_orig) 8
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[1.4343]], requires_grad=True)
+2
+num_mins 69  num_maxes 153
+num zeros len(t0) 9 	 num all zeros len(t0_orig) 10
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[2.1880]], requires_grad=True)
+2
+[ 0.62116963  0.06060268  0.12917447  3.18377781  0.44788298  0.25850251
+  0.93281668 12.29586792  0.32000697  0.03532785]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New Input Dependent Result
+Use Bridge? : False
+Kernel weight: 2
+MSE: 1.8285129506140947 \pm 3.5991338620039133
+num zeros len(t0) 5 	 num all zeros len(t0_orig) 6
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0217]], requires_grad=True)
+2
+num zeros len(t0) 31 	 num all zeros len(t0_orig) 32
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0130]], requires_grad=True)
+2
+num zeros len(t0) 9 	 num all zeros len(t0_orig) 10
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0177]], requires_grad=True)
+2
+num zeros len(t0) 2 	 num all zeros len(t0_orig) 3
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0015]], requires_grad=True)
+2
+num zeros len(t0) 26 	 num all zeros len(t0_orig) 27
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0343]], requires_grad=True)
+2
+num zeros len(t0) 20 	 num all zeros len(t0_orig) 21
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0212]], requires_grad=True)
+2
+num zeros len(t0) 49 	 num all zeros len(t0_orig) 50
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0031]], requires_grad=True)
+2
+num zeros len(t0) 3 	 num all zeros len(t0_orig) 4
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0231]], requires_grad=True)
+2
+num zeros len(t0) 7 	 num all zeros len(t0_orig) 8
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[-0.0020]], requires_grad=True)
+2
+num zeros len(t0) 9 	 num all zeros len(t0_orig) 10
+self.history_order 1
+(100, 7)
+SplineRegressionHistory(
+  (state_linear): Linear(in_features=7, out_features=1, bias=True)
+  (history_linear): Linear(in_features=1, out_features=1, bias=False)
+)
+------------------------------------------------------------------------------------------------------------------------
+Parameter containing:
+tensor([[0.0211]], requires_grad=True)
+2
+[4.08733892 3.94816709 4.07125854 4.00615549 3.86417198 3.91579771
+ 4.0125699  3.90831876 4.00814867 3.91605544]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+New Input Dependent Result
+Use Bridge? : True
+Kernel weight: 2
+MSE: 3.9737982511520387 \pm 0.07055558882442152
